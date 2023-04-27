@@ -2,6 +2,7 @@
 
 ### 工作原理
 
+goruntine+channel
 
 
 ### 参考
